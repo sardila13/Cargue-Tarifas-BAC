@@ -159,6 +159,8 @@ public class Cargue_Tarifas {
 			
 			buscarElementoWeb("cphCuerpo_btnGuardar", driver).click();
 			Thread.sleep(300);
+			
+			System.out.println("Prueba de commit");
 		}
 	}
 	
